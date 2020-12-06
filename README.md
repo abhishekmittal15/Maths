@@ -1,4 +1,4 @@
-# On Elementary Algebra, Analysis, Probability and Statistics
+## On Elementary Algebra, Analysis, Probability and Statistics
 
 - Abstract Algebra -> follow Artin :P
 - Linear Algebra -> Strang :3
